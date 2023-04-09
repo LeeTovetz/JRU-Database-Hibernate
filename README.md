@@ -6,7 +6,6 @@ installation of DBMS. Types of data, data selection. Database transactions. <br>
 Designing databases. JDBC, ORM, Hibernate. The final project.<br>
 
 ##
-##
 
 **Program of the whole course**<br>
 Training on the course consists of 5 modules + practical module (performing a group project):<br>
@@ -36,24 +35,23 @@ this is the final project of the second "Java Core" module at JavaRush Universit
 To do this:<br> 
 - Add dependencies;
 - Add plugins;<br>
-## 
+ 
 <a href="https://github.com/LeeTovetz/hippodrome" >**Mini-project 02: JUnit5 and Log4j2**</a><br>
 A program is given - a simulation of a racetrack.<br>
 My task is to add testing and logging.<br>
 - Add tests;
 - Add logging;<br>
-##
+
 <a href="https://github.com/LeeTovetz/project-front/tree/master" >**Mini-project 03: HTML, CSS, JS, jQuery**</a><br>
 We need to make a UI for CRUD backend, using HTML, CSS, JS, jQuery.<br> 
 We will make an admin panel to manage online game accounts.<br>
 - Download and install Tomcat;
 - Add HTML, CSS, JS, jQuery;<br>
-##
+
 <a href="https://github.com/LeeTovetz/project-servlet/tree/master" >**Mini-project 04: Servlets, JSP**</a><br>
 Task: Write a "Tic-tac-toe" game using Servlets and JSP.<br>
 - Add Tomcat;
 - Doing the task of writing the game;<br>
-##
 
 <a href="https://github.com/LeeTovetz/ua.javarush.november.kravchenko.quest/tree/november" >**Project-Quest**</a><br>
 -> this is the final project <br>
