@@ -70,7 +70,3 @@ module at JavaRush University.<br>
 
 ##
 ##
-
-
-
-
